@@ -7,6 +7,9 @@ It has the following features:
 - automated read/save of user's settings
 - up-to-date elements for user interface
 - basic initialization and interaction with Ecwid JS SDK
+## Homepage
+<img src="https://github.com/DynastyElvis/Daraja-API-for-Mpesa/blob/main/images/Screenshot%20from%202022-08-30%2016-21-54.png" width="800px" height="400px">
+
 
 ## Files' descriptions
 
