@@ -8,7 +8,7 @@ It has the following features:
 - up-to-date elements for user interface
 - basic initialization and interaction with Ecwid JS SDK
 ## Homepage
-<img src="https://github.com/DynastyElvis/Daraja-API-for-Mpesa/blob/main/images/Screenshot%20from%202022-08-30%2016-21-54.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Payment-Gateway-STRIPE/blob/main/images/Screenshot%20from%202022-09-16%2012-34-18.png" width="800px" height="400px">
 
 
 ## Files' descriptions
